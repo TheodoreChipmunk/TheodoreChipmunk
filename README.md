@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning How To Code
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me rtej392@students.fairmontschools.com
-- uses: Platane/snk@v3
+- uses: Platane/TheodoreChipmunk
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
